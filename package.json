@@ -1,0 +1,33 @@
+{
+  "name": "@csmith/release-it-disable-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for Release It! which allows forcibly disabling internal plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casmith/release-it-disable-plugin.git"
+  },
+  "keywords": [
+    "release",
+    "release-it",
+    "release-it-plugin",
+    "version",
+    "bump",
+    "manifest"
+  ],
+  "author": {
+    "name": "Clay Smith",
+    "email": "clay@claysmith.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/casmith/release-it-disable-plugin/issues"
+  },
+  "homepage": "https://github.com/casmith/release-it-disable-plugin#readme",
+  "dependencies": {
+    "release-it": "^13.7.0"
+  }
+}
